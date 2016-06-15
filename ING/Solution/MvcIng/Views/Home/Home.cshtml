@@ -1,0 +1,40 @@
+﻿@model MvcIng.Models.EventModel
+
+@{
+    ViewBag.Title = "Home";
+}
+<div class="fluid">
+    <div class="data-container">
+        <header>
+            <h4>UPCOMMING EVENTS</h4>
+        </header>
+        <div class="main-content">
+
+
+            <div class="table-container">
+                <table class="upcoming-events-table">
+                    <tr>
+                        <th class="table-name">NAME</th>
+                        <th class="table-date">DATE</th>
+                        <th>EVENT</th>
+                    </tr>
+                    @foreach(var happening in Model.events)
+                    { 
+                    <tr>
+                        <td class="table-name">
+                            <p>@happening.Who</p>
+
+                            <span class="table-work-status cofounder"> </span> <span class="table-work-status">at</span> <span class="company-name company-smaller-font">INGSoftware</span>
+
+                        </td>
+                        <td class="table-date">@happening.When.ToShortDateString()</td>
+                        <td class="table-data">@happening.What </td>
+                    </tr>
+                    }
+                </table>
+                <button class="bottom-button">Show More <span class="fa fa-caret-down"></span></button>
+            </div>
+        </div><!--end main-content-->
+    </div><!--end data-container-->
+</div>
+

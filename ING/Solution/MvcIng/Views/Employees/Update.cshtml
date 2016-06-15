@@ -1,0 +1,90 @@
+﻿@model MvcIng.Models.AddEmployeeModel
+
+@{
+    ViewBag.Title = "UpdateEmployee";
+}
+
+<h2 style="color:darkblue">Update Employee</h2>
+
+<form method="post" action="@Url.Action("Update", "Employees")">
+    @Html.HiddenFor(model => model.user.UserID)
+    @Html.Label("First name:  ")
+    @Html.TextBoxFor(model => model.user.FirstName)<br>
+    @Html.Label("Last name:  ")
+    @Html.TextBoxFor(model => model.user.LastName)<br>
+    @Html.Label("Email:  ")
+    @Html.TextBoxFor(model => model.user.Email)<br>
+    @Html.Label("Address:  ")
+    @Html.TextBoxFor(model => model.user.Address)<br>
+    @Html.Label("Telephone:  ")
+    @Html.TextBoxFor(model => model.user.Telephone)<br>
+    @Html.Label("Birth date:  ")
+    @Html.TextBoxFor(model => model.user.BirthDate)<br>
+    @Html.Label("Username:  ")
+    @Html.TextBoxFor(model => model.user.Username)<br>
+    @Html.Label("Work start date:  ")
+    @Html.TextBoxFor(model => model.user.WorkStartDate)<br>
+    @Html.Label("User type:  ")
+    @Html.EnumDropDownListFor(model => model.employeeType)<br />
+    @Html.Label("Status type:  ")
+    @Html.EnumDropDownListFor(model => model.employeeStatus)<br />
+
+    <p>
+        <input type="submit" value="Submit changes" />
+    </p>
+
+    <h2 style="color:darkred">Children:</h2>
+    <table border="1" style="width:100%">
+        <tr>
+            <th>Name</th>
+            <th>Birth date</th>
+        </tr>
+        @{
+            int m = Model.children.Count;
+
+            for (int i = 0; i < m; i++)
+            {
+                <tr>
+                    @Html.HiddenFor(model => model.children[i].Name)
+                    @Html.HiddenFor(model => model.children[i].BirthDate)
+                    @Html.HiddenFor(model => model.children[i].ChildID)
+                    @Html.HiddenFor(model => model.children[i].UserID)
+                    <th>@Model.children[i].Name</th>
+                    <th>@Model.children[i].BirthDate</th>
+                    <th>@Html.ActionLink("Update", "UpdateChild", new { ChildID = @Model.children[i].ChildID }) </th>
+                    <th>@Html.ActionLink("Delete", "DeleteChild", new { ChildID = @Model.children[i].ChildID, UserID = @Model.children[i].UserID }) </th>
+                </tr>
+            }
+        }
+    </table>
+
+    <h2 style="color:darkred">Teams</h2>
+    <table border="1" style="width:100%">
+        <tr>
+            <th>Name</th>
+        </tr>
+        @{
+            int n = Model.teams.Count;
+
+            for (int i = 0; i < n; i++)
+            {
+                <tr>
+                    @Html.HiddenFor(model=>model.teams[i].TeamID)
+                    @Html.HiddenFor(model=>model.teams[i].Name)
+                    <th>@Model.teams[i].Name</th>
+                    <th>@Html.ActionLink("Delete", "DeleteTeam", new { TeamID = @Model.teams[i].TeamID,UserID=@Model.user.UserID }) </th>
+                </tr>
+            }
+        }
+    </table>
+</form>
+@using(Html.BeginForm("AddChild","Employees"))
+{
+    @Html.HiddenFor(model=>model.user.UserID)
+    <input type="submit" value="Add child" />
+}
+@using (Html.BeginForm("AddTeam", "Employees"))
+{
+    @Html.HiddenFor(model => model.user.UserID)
+    <input type="submit" value="Add team" />
+}

@@ -1,0 +1,18 @@
+﻿@model MvcIng.Models.ChildModel
+
+@{
+    ViewBag.Title = "UpdateChild";
+}
+
+<h2>UpdateChild</h2>
+
+@using(Html.BeginForm("UpdateChild","Employees"))
+{
+    @Html.Label("Name:")
+    @Html.TextBoxFor(model=>model.child.Name)<br />
+    @Html.Label("Birth date: ")
+    @Html.TextBoxFor(model=>model.child.BirthDate)<br />
+    @Html.HiddenFor(model=>model.child.ChildID)
+    @Html.HiddenFor(model=>model.child.UserID)
+    <input type="submit" value="Submit changes" />
+}

@@ -1,0 +1,256 @@
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.dll.config
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.pdb
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Antlr3.Runtime.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.SqlServer.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Google.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Web.Infrastructure.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Newtonsoft.Json.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Owin.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Helpers.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Mvc.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Optimization.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Razor.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Deployment.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Razor.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\WebGrease.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Helpers.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Mvc.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Optimization.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Razor.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Deployment.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Razor.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Newtonsoft.Json.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Antlr3.Runtime.pdb
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.SqlServer.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Google.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.csprojResolveAssemblyReference.cache
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.dll
+c:\users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.pdb
+C:\Users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Moq.dll
+C:\Users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.dll
+C:\Users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Common.dll
+C:\Users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Mvc.dll
+C:\Users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\WebActivatorEx.dll
+C:\Users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Moq.xml
+C:\Users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.xml
+C:\Users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Common.xml
+C:\Users\milos\documents\visual studio 2013\Projects\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Mvc.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.dll.config
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.pdb
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Antlr3.Runtime.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.SqlServer.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Google.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Web.Infrastructure.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Moq.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Newtonsoft.Json.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Common.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Mvc.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Owin.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Helpers.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Mvc.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Optimization.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Razor.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Deployment.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Razor.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\WebActivatorEx.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\WebGrease.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.SqlServer.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Moq.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Common.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Mvc.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Helpers.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Mvc.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Optimization.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Razor.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Deployment.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Razor.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Newtonsoft.Json.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Antlr3.Runtime.pdb
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Google.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.csprojResolveAssemblyReference.cache
+D:\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.dll
+D:\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.pdb
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.dll.config
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.pdb
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Antlr3.Runtime.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.SqlServer.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Moq.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Newtonsoft.Json.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Common.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Mvc.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Owin.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Helpers.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Mvc.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Optimization.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Razor.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\WebActivatorEx.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\WebGrease.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.SqlServer.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Moq.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Common.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Mvc.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Helpers.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Mvc.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Optimization.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Razor.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Newtonsoft.Json.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Antlr3.Runtime.pdb
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.dll
+C:\Users\Milos\Desktop\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.pdb
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.dll.config
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\AdiutorBootstrap.pdb
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Antlr3.Runtime.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.SqlServer.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Moq.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Newtonsoft.Json.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Common.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Mvc.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Owin.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Helpers.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Mvc.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Optimization.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Razor.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Razor.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\WebActivatorEx.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\WebGrease.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\EntityFramework.SqlServer.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Moq.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Common.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Ninject.Web.Mvc.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Helpers.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Mvc.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Optimization.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.Razor.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\System.Web.WebPages.Razor.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Newtonsoft.Json.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Antlr3.Runtime.pdb
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.dll
+C:\Users\Milos\Desktop\Softversko-sve\AdiutorBootstrap\AdiutorBootstrap\obj\Debug\AdiutorBootstrap.pdb

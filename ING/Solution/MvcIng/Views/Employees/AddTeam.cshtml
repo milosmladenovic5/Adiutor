@@ -1,0 +1,27 @@
+﻿@model MvcIng.Models.AddTeamModel
+
+@{
+    ViewBag.Title = "AddTeam";
+}
+
+<h2>Add Team</h2>
+
+@{
+    List<SelectListItem> listItem = new List<SelectListItem>();
+    foreach(var team in Model.AllTeams)
+    {
+        listItem.Add(new SelectListItem
+        {
+            Text = team.Name,
+            Value = (team.TeamID).ToString()
+        });
+    }
+}
+@using(Html.BeginForm("InsertTeam","Employees"))
+{
+    @Html.Label("Team name")
+    @Html.DropDownListFor(model=>model.TeamID,listItem)
+    @Html.HiddenFor(model=>model.TeamID)
+    @Html.HiddenFor(model=>model.UserID)
+    <input type="submit" value="OK" />
+}

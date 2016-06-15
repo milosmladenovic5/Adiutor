@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "ErrorPage";
+}
+
+
+<h2>ErrorPage</h2>
+
+<p>
+    @{
+        if (Model != null)
+        {
+            var errorLines = Model.ToString().Replace("\r\n", "\n").Split("\n".ToCharArray());
+            foreach (var errorLine in errorLines)
+            {
+                @errorLine
+                <br />
+            }
+        }
+    }
+
+</p>

@@ -1,0 +1,13 @@
+﻿@model MvcIng.Models.CommentModel
+
+@{
+    ViewBag.Title = "Reject";
+}
+
+<h4>Comment:</h4>
+@using (Html.BeginForm("Reject", "EditLeaves"))
+{
+    @Html.TextBoxFor(model => model.comment)
+    @Html.HiddenFor(model => model.leaveID)
+    <input type="submit" value="OK" />
+}

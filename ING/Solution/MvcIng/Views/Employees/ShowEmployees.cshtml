@@ -1,0 +1,31 @@
+﻿@model MvcIng.Models.EmployeeModel
+
+@{
+    ViewBag.Title = "ShowEmployees";
+}
+
+<h2 style="color:darkred">All Employees</h2>
+
+<table border="1" style="width:100%">
+    <tr>
+        <th>First name</th>
+        <th>Last name</th>
+        <th>Status</th>
+        <th>Menage</th>
+    </tr>
+    @{
+        int m = Model.Employees.Count;
+        for (int i = 0; i < m; i++)
+        {
+            <tr>
+                <th>@Model.Employees[i].FirstName</th>
+                <th>@Model.Employees[i].LastName</th>
+                @{ var status = (Buisiness.StatusTypes.StatusT)Model.Employees[i].StatusTypeID;}
+                <th>@status</th>
+                <th>@Html.ActionLink("Update", "Update", new { UserID = @Model.Employees[i].UserID }) |</th>
+            </tr>
+        
+    }
+    }
+</table>
+<input type="button" value="Add Employee" onclick="location.href='@Url.Action("AddEmployee","Employees")'" />

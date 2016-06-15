@@ -1,0 +1,46 @@
+﻿@model MvcIng.Models.AllTeamsModel
+
+@{
+    ViewBag.Title = "Teams";
+}
+
+<div class="fluid">
+    <div class="data-container">
+
+        <header>
+            <h4>TEAMS</h4>
+        </header>
+        <div class="main-content">
+            <div class="profile-form myleavesContainer">
+
+                <div class="table-container">
+
+                    <div id="accordion" class="accordion">
+                        @for(int i=0;i<@Model.teams.Count;i++)
+                        { 
+                        <h3>@Model.teams[i].name <span class="number">(@Model.teams[i].numOfMembers)</span></h3>
+                        <div>
+                            <div class="accordion-row">
+                                <div class="accordion-content">
+                                    @for(int j=0;j<Model.teams[i].users.Count;j++)
+                                    { 
+                                    <p class="table-name member-name">
+                                        @Model.teams[i].users[j].FirstName   @Model.teams[i].users[j].LastName 
+                                    </p>
+                                    <p class="table-name member-name">
+                                        <span class="table-work-status cofounder"> </span> <span class="table-work-status">at</span> <span class="company-name">INGSoftware</span>
+                                    </p>
+                                    }
+                                </div>
+                                <div class="accordion-right-content">
+                                    <a href=""></a>
+                                </div>
+                            </div>
+                        </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div><!--end main-content-->
+    </div><!--end data-container-->
+</div>

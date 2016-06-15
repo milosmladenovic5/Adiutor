@@ -1,0 +1,13 @@
+#part1{
+	font-family: tahoma;
+	font-size: 20px;
+	border: 2px #253300 dashed;/*slozeni atribut*/
+	background-color: #3d7f44;
+}
+
+#part2{
+	font-family: arial;
+	font-size: 32px;
+	border: 32px #241300 dashed;
+	background-color: #4d8f44;
+}

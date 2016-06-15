@@ -1,0 +1,27 @@
+﻿@model MvcIng.Models.RequestLeaveModel
+
+@{
+    ViewBag.Title = "RequestLeave";
+}
+
+<h2 style="color:darkkhaki">Add Leave</h2>
+
+@using(Html.BeginForm("RequestLeave","RequestLeave"))
+{
+    <p>
+        @Html.ValidationSummary(true)
+        From:    @Html.TextBoxFor(model => model.start)
+        @Html.ValidationMessageFor(model=>model.start)<br />
+        To:      @Html.TextBoxFor(model=>model.end)
+        @Html.ValidationMessageFor(model=>model.end)<br />
+        @Html.ValidationSummary(true)
+        Comment: @Html.TextBoxFor(model=>model.comment)<br />
+        
+    </p>
+      <p>Old days left: </p> @Model.oldDaysLeft
+    @Html.HiddenFor(model=>model.oldDaysLeft)
+      <p>New days left: </p> @Model.newDaysLeft
+    @Html.HiddenFor(model=>model.newDaysLeft)
+    <input type="submit" value="OK" />
+}
+

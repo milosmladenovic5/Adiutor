@@ -1,0 +1,136 @@
+﻿@model MvcIng.Models.MyLeavesModel
+
+@{
+    ViewBag.Title = "MyLeaves";
+}
+
+@if(ViewData["Error"]!=null)
+{ 
+if(!String.IsNullOrEmpty(ViewData["Error"].ToString()))
+{
+    @:<script type="text/javascript">alert('@ViewData["Error"]')</script>
+} 
+}   
+
+<div class="fluid">
+    <div class="data-container">
+        <header>
+            <div class="header-content">
+                <h4>MY LEAVES</h4>
+                <button id="requestLeave-btn"><i class="fa fa-plus-circle"></i> Request leave</button>
+            </div>
+        </header>
+        <div class="main-content">
+            <div class="profile-form myleavesContainer">
+
+                <div class="table-container personal-subcontainer myleaves">
+                    <table class="myLeavesTable">
+                        <tr>
+                            <th class="number">NO <i class="fa fa-caret-down"></i></th>
+                            <th class="start-date">START DATE</th>
+                            <th class="end-date">END DATE</th>
+                            <th class="status">STATUS</th>
+                            <th class="update">UPDATE</th>
+
+                        </tr>
+                        @for (int i = 0; i < Model.myLeaves.Count; i++)
+                        {
+                            <tr>
+                                <td class="number">@{var m = i + 1;} @m @Html.HiddenFor(model => model.myLeaves[i].leaveId) </td>
+                                <td class="start-date">@Model.myLeaves[i].start.ToShortDateString() @Html.HiddenFor(model => model.myLeaves[i].start)</td>
+                                <td class="end-date">@Model.myLeaves[i].end.Value.ToShortDateString() @Html.HiddenFor(model => model.myLeaves[i].end)</td>
+                                <td class="status"><span class="approved">@Model.myLeaves[i].status </span>@Html.HiddenFor(model => model.myLeaves[i].histId)</td>
+                                <td class="update"><span class="update-status">Update Status </span>@Html.HiddenFor(model => model.myLeaves[i].comment)</td>
+                            </tr>
+                        }
+                    </table>
+                    <button class="bottom-button">Show More <span class="caret"></span></button>
+                </div>
+            </div>
+        </div><!--end main-content-->
+    </div><!--end data-container-->
+
+    <div id="dialog" title="LEAVE" style="display:none">
+        <form method="post" action="@Url.Action("Update","MyLeaves")">
+
+            <fieldset>
+                <div class="left-content">
+                    <label for="from-date">From:</label>
+
+                    <input type="text" name="start" id="from-date" placeholder="mm/dd/yyyy" class="text ui-widget-content ui-corner-all">
+
+                </div>
+                <div class="right-content">
+                    <label for="to-date">To:</label>
+
+                    <input type="text" name="end" id="to-date" placeholder="mm/dd/yyyy" class="text ui-widget-content ui-corner-all">
+
+                </div>
+                <input type="hidden" id="leaveId" name="leaveId" />
+                <input type="hidden" id="histId" name="histId" />
+
+                <div class="clear"></div>
+
+                <label form="textarea">Comment:</label>
+                <textarea name="comment" id="comment"></textarea>
+
+                <br />
+                <label for="employee-list">For:</label>
+                <br />
+
+                <select name="employeeName" id="employee-list" class="select-employee-list">
+                    <option selected disabled>Employee list</option>
+                    <option>@Model.FirstName</option>
+                </select>
+
+
+
+
+            </fieldset>
+            <input class="bottom-button diagram-submit" type="submit" name="submit" value="Accept" />
+            <a href="" class="bottom-button cancel-button">Cancel</a>
+        </form>
+    </div>
+    <div id="dialog1" title="LEAVE" style="display:none">
+        <form method="post" action="@Url.Action("RequestLeave","RequestLeave")">
+
+            <fieldset>
+                <div class="left-content">
+                    <label for="from-date">From:</label>
+
+                    <input type="text" name="start" id="from" placeholder="mm/dd/yyyy" class="text ui-widget-content ui-corner-all">
+
+                </div>
+                <div class="right-content">
+                    <label for="to-date">To:</label>
+
+                    <input type="text" name="end" id="to" placeholder="mm/dd/yyyy" class="text ui-widget-content ui-corner-all">
+
+                </div>
+
+
+                <div class="clear"></div>
+
+                <label form="textarea">Comment:</label>
+                <textarea name="comment" id="comment"></textarea>
+
+                <br />
+                <label for="employee-list">For:</label>
+                <br />
+
+                <select name="employeeName" id="employee-list" class="select-employee-list">
+                    <option selected disabled>Employee list</option>
+                    <option>@Model.FirstName</option>
+                </select>
+
+
+
+
+            </fieldset>
+            <input class="bottom-button diagram-submit" type="submit" name="submit" value="Accept" />
+            <a href="" class="bottom-button cancel-button">Cancel</a>
+        </form>
+    </div>
+</div>
+
+

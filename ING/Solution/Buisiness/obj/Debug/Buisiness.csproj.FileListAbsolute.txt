@@ -1,0 +1,28 @@
+c:\Users\Nevena\documents\visual studio 2013\Projects\ING\Buisiness\bin\Debug\Buisiness.dll
+c:\Users\Nevena\documents\visual studio 2013\Projects\ING\Buisiness\bin\Debug\Buisiness.pdb
+c:\Users\Nevena\documents\visual studio 2013\Projects\ING\Buisiness\bin\Debug\DataBase.dll
+c:\Users\Nevena\documents\visual studio 2013\Projects\ING\Buisiness\bin\Debug\DataBase.pdb
+c:\Users\Nevena\documents\visual studio 2013\Projects\ING\Buisiness\obj\Debug\Buisiness.csprojResolveAssemblyReference.cache
+c:\Users\Nevena\documents\visual studio 2013\Projects\ING\Buisiness\obj\Debug\Buisiness.dll
+c:\Users\Nevena\documents\visual studio 2013\Projects\ING\Buisiness\obj\Debug\Buisiness.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\Buisiness\bin\Debug\Buisiness.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\Buisiness\bin\Debug\Buisiness.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\Buisiness\bin\Debug\DataBase.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\Buisiness\bin\Debug\DataBase.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\Buisiness\obj\Debug\Buisiness.csprojResolveAssemblyReference.cache
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\Buisiness\obj\Debug\Buisiness.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\Buisiness\obj\Debug\Buisiness.pdb
+C:\Users\Alex\Desktop\ING\Solution\Buisiness\bin\Debug\Buisiness.dll
+C:\Users\Alex\Desktop\ING\Solution\Buisiness\bin\Debug\Buisiness.pdb
+C:\Users\Alex\Desktop\ING\Solution\Buisiness\bin\Debug\DataBase.dll
+C:\Users\Alex\Desktop\ING\Solution\Buisiness\bin\Debug\DataBase.pdb
+C:\Users\Alex\Desktop\ING\Solution\Buisiness\obj\Debug\Buisiness.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\ING\Solution\Buisiness\obj\Debug\Buisiness.dll
+C:\Users\Alex\Desktop\ING\Solution\Buisiness\obj\Debug\Buisiness.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\Buisiness\bin\Debug\Buisiness.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\Buisiness\bin\Debug\Buisiness.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\Buisiness\bin\Debug\DataBase.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\Buisiness\bin\Debug\DataBase.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\Buisiness\obj\Debug\Buisiness.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\Buisiness\obj\Debug\Buisiness.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\Buisiness\obj\Debug\Buisiness.pdb

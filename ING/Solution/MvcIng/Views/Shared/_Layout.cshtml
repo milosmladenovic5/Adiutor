@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+@using MvcIng.Logic
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title | Vacation Manager</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    @Styles.Render("~/bundles/Style")
+</head>
+<body>
+    <div class="fluid">
+        <aside class="nav-container">
+            <div class="logo-container">
+                <img src="~/Content/images/Logo.png" alt="Vacation Management" />
+                <div class="burger"><i class="fa fa-bars"></i></div>
+            </div>
+
+            <nav class="navigation">
+                <ul>
+                    @if (ViewContext.RouteData.Values["controller"].ToString() == "Home")
+                    {
+                        <li><a class="active" href=@Url.Action("Home","Home")><span class=" fa fa-home"></span>HOME</a></li>
+                    }
+                    else
+                    {
+                        <li><a href=@Url.Action("Home","Home")><span class=" fa fa-home"></span>HOME</a></li>
+                    }
+                    @if (ViewContext.RouteData.Values["controller"].ToString() == "Profile")
+                    {
+                        <li><a class="active" href=@Url.Action("Prof", "Profile")><span class="material-icons">person</span>PROFILE</a></li>
+                    }
+                    else
+                    {
+                        <li><a href=@Url.Action("Prof", "Profile")><span class="material-icons">person</span>PROFILE</a></li>
+                    }
+                    @if (ViewContext.RouteData.Values["controller"].ToString() == "MyLeaves")
+                    {
+                        <li><a class="active" href=@Url.Action("MyLeaves", "MyLeaves")><span class="material-icons walk-icon">directions_walk</span>MY LEAVES</a></li>
+                    }
+                    else
+                    {
+                        <li><a href=@Url.Action("MyLeaves", "MyLeaves")><span class="material-icons walk-icon">directions_walk</span>MY LEAVES</a></li>
+                    }
+                    @if (ViewContext.RouteData.Values["controller"].ToString() == "AllEvents")
+                    {
+                        <li><a class="active" href=@Url.Action("AllEvents", "AllEvents")><span class="material-icons walk-icon">directions_walk</span>ALL LEAVES</a></li>
+                    }
+                    else
+                    {
+                        <li><a href=@Url.Action("AllEvents", "AllEvents")><span class="material-icons walk-icon">directions_walk</span>ALL LEAVES</a></li>
+                    }
+                    @if (ViewContext.RouteData.Values["controller"].ToString() == "Teams")
+                    {
+                        <li><a class="active" href=@Url.Action("Teams", "Teams")><span class="material-icons">people</span>TEAMS</a></li>
+                    }
+                    else
+                    {
+                        <li><a href=@Url.Action("Teams", "Teams")><span class="material-icons">people</span>TEAMS</a></li>
+                    }
+                    @if (ViewContext.RouteData.Values["controller"].ToString() == "EditLeaves")
+                    {
+                        <li><a class="active" href=@Url.Action("EditLeaves","EditLeaves")><span class="material-icons">people</span>MANAGEMENT</a></li>
+                    }
+                    else
+                    {
+                        <li><a href=@Url.Action("EditLeaves","EditLeaves")><span class="material-icons">people</span>MANAGEMENT</a></li>
+                    }
+                </ul>
+            </nav><!--end navigation-->
+        </aside><!--end nav-container-->
+
+        <div class="user-container">
+            <div class="user-content">
+                <img class="user-img" src="~/Content/images/user.jpg" />
+
+                <div class="user-info">
+                    <h4 class="full-name">@(SessionManager.Data.Get<string>(SessionKeys.FirstName)) @(SessionManager.Data.Get<string>(SessionKeys.LastName))</h4>
+                    <p class="working-status">
+                        <span class="intern">
+                            Intern
+                        </span>
+                        at
+                        <span class="company-name">
+                            INGSoftware
+                        </span>
+                    </p>
+                </div>
+            </div>
+
+            <a href="@Url.Action("LogOut","LogIn")" class="logout">User Logout</a>
+        </div><!--end user-container-->
+        <div class="breadcrumbs">
+            <p class="app-name">Vacation Management / <span class="current-page">@ViewBag.Page</span></p>
+            <div class="date-calendar">
+                <p class="current-date" id="current-date"></p>
+
+                <input type="text" id="date" class="hidden" />
+                <i class="fa fa-calendar" id="show-date"></i>
+
+            </div>
+        </div>
+        <div class="data-container">
+            @RenderBody()
+        </div>
+
+    </div>
+
+    <script type="text/javascript" src="~/Scripts/jquery-2.1.4.js"></script>
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+    <script type="text/javascript" src="~/Scripts/jquery-ui.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/main.js"></script>
+</body>
+</html>
+
+

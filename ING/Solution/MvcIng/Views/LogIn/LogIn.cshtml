@@ -1,0 +1,62 @@
+﻿@model MvcIng.Models.LogInModel
+@using Buisiness;
+@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+@Styles.Render("~/bundles/Style")
+<html>
+<body>
+    <div class="fluid">
+        <form class="login-container" method="post" action="@Url.Action("LogIn", "LogIn")">
+
+            <div class="logo-container login-logo-container">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAA6CAYAAAAOeSEWAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4RpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NTc3MiwgMjAxNC8wMS8xMy0xOTo0NDowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1MWFjYWM4OS0yNzllLTg0NDgtOTA3Mi1lYTE1Njc3NGRiMzkiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Q0I3RUUxREU0NDAzMTFFNTlBM0JBNkE4RURFQzc4NjQiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Q0I3RUUxREQ0NDAzMTFFNTlBM0JBNkE4RURFQzc4NjQiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MjU1ZDc5YTAtYzRkOS1jMDRkLWEzODEtZjc3YjllYjgwZjU4IiBzdFJlZjpkb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NzY1MjllMGYtM2M0MC0xMWU1LWI2NWEt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">
+            </div>
+            <div class="login-form-container table-container">
+                <div class="login-subcontainer">
+                    <div class="input-container">
+                        <span class="fa fa-user"></span>
+                        <input type="text" name="username" placeholder="Enter your User Name" value="@Model.username" />
+                        
+                    </div>
+                    <div class="input-container">
+                        <span class="fa fa-key"></span>
+                        <input type="password" name="password" value="@Model.password" placeholder="Enter Password" />
+                       
+                    </div>
+                    <input type="checkbox" name="checkbox" id="checkbox">
+                    <label for="checkbox">Remember me?</label>
+                    <a href="#">Forgot your Login?</a>
+                    <input type="submit" value="LOGIN" class="bottom-button" />
+                </div>
+            </div>
+            @if(ViewBag.BadLogin!=null && ViewBag.BadLogin)
+            { 
+            <div class="error bottom-button">
+                <p>Wrong User Name and/or Password!</p>
+            </div>
+            }
+        </form>
+
+
+
+    </div>
+
+
+    <script type="text/javascript" src="~/Scripts/jquery-2.1.4.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery-ui.js"></script>
+    <script type="text/javascript" src="~/Scripts/main.js"></script>
+
+</body>
+</html>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+

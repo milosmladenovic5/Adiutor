@@ -1,0 +1,41 @@
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\bin\Debug\MvcIng.Logic.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\bin\Debug\MvcIng.Logic.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\bin\Debug\Buisiness.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\bin\Debug\Common.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\bin\Debug\System.Web.Mvc.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\bin\Debug\DataBase.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\bin\Debug\Buisiness.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\bin\Debug\Common.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\bin\Debug\System.Web.Mvc.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\bin\Debug\DataBase.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\obj\Debug\MvcIng.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\obj\Debug\MvcIng.Logic.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\MStojanovic\MvcIng.Logic\obj\Debug\MvcIng.Logic.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng.Logic\bin\Debug\MvcIng.Logic.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng.Logic\bin\Debug\MvcIng.Logic.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng.Logic\bin\Debug\Buisiness.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng.Logic\bin\Debug\DataBase.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng.Logic\bin\Debug\Buisiness.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng.Logic\bin\Debug\DataBase.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng.Logic\obj\Debug\MvcIng.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng.Logic\obj\Debug\MvcIng.Logic.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng.Logic\obj\Debug\MvcIng.Logic.pdb
+C:\Users\Alex\Desktop\ING\Solution\MvcIng.Logic\bin\Debug\MvcIng.Logic.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng.Logic\bin\Debug\MvcIng.Logic.pdb
+C:\Users\Alex\Desktop\ING\Solution\MvcIng.Logic\bin\Debug\Buisiness.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng.Logic\bin\Debug\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng.Logic\bin\Debug\DataBase.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng.Logic\bin\Debug\Buisiness.pdb
+C:\Users\Alex\Desktop\ING\Solution\MvcIng.Logic\bin\Debug\DataBase.pdb
+C:\Users\Alex\Desktop\ING\Solution\MvcIng.Logic\obj\Debug\MvcIng.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\ING\Solution\MvcIng.Logic\obj\Debug\MvcIng.Logic.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng.Logic\obj\Debug\MvcIng.Logic.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng.Logic\bin\Debug\MvcIng.Logic.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng.Logic\bin\Debug\MvcIng.Logic.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng.Logic\bin\Debug\Buisiness.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng.Logic\bin\Debug\DataBase.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng.Logic\bin\Debug\Buisiness.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng.Logic\bin\Debug\DataBase.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng.Logic\obj\Debug\MvcIng.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng.Logic\obj\Debug\MvcIng.Logic.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng.Logic\obj\Debug\MvcIng.Logic.pdb

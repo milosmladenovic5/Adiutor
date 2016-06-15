@@ -1,0 +1,39 @@
+﻿@model MvcIng.Models.AddLeaveModel
+
+@{
+    ViewBag.Title = "AddLeave";
+}
+<br />
+
+<h2 style="color:darkmagenta">Add Leave</h2>
+@{
+    List<SelectListItem> listItem = new List<SelectListItem>();
+    foreach (var user in Model.allEmployees)
+    {
+        listItem.Add(new SelectListItem
+            {
+                Text = user.FirstName + " " + user.LastName,
+                Value = (user.UserID).ToString()
+            });
+    }
+}
+@using (Html.BeginForm("AddLeave", "AddLeave"))
+{
+    @Html.Label("Employee name: ")
+    @Html.DropDownListFor(model => model.UserID, listItem)<br />
+    <br />
+    <pre>
+    @Html.Label("From:")  @Html.TextBoxFor(model=>model.start)  @Html.ValidationMessageFor(model=>model.start)
+    
+    @Html.Label("To:")  @Html.TextBoxFor(model => model.end) @Html.ValidationMessageFor(model=>model.end)
+    @Html.ValidationSummary(true)
+</pre>
+    <br />
+    @Html.Label("Comment:")
+    @Html.TextBoxFor(model => model.comment)<br />
+    <br />
+    @Html.Label("Leave type: ")
+    @Html.EnumDropDownListFor(model => model.leaveType)
+    <input type="submit" value="OK" />
+}
+

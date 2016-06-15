@@ -1,0 +1,242 @@
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\MvcIng.dll.config
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\MvcIng.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\MvcIng.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Antlr3.Runtime.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Buisiness.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\EntityFramework.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\EntityFramework.SqlServer.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Newtonsoft.Json.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Owin.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.Helpers.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.Mvc.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.Optimization.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.Razor.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.WebPages.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\WebGrease.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\DataBase.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Buisiness.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.Helpers.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.Mvc.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.Optimization.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.Razor.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.WebPages.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Antlr3.Runtime.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Newtonsoft.Json.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\EntityFramework.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\EntityFramework.SqlServer.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\bin\DataBase.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\obj\Debug\MvcIng.csprojResolveAssemblyReference.cache
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\obj\Debug\MvcIng.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\MvcIng\obj\Debug\MvcIng.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\MvcIng.dll.config
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\MvcIng.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\MvcIng.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Antlr3.Runtime.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Buisiness.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\EntityFramework.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\EntityFramework.SqlServer.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\MvcIng.Logic.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Newtonsoft.Json.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Owin.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.Helpers.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.Mvc.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.Optimization.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.Razor.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.WebPages.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\WebGrease.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\DataBase.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Buisiness.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\MvcIng.Logic.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.Helpers.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.Mvc.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.Optimization.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.Razor.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.WebPages.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Antlr3.Runtime.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Newtonsoft.Json.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\EntityFramework.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\EntityFramework.SqlServer.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\bin\DataBase.pdb
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\obj\Debug\MvcIng.csprojResolveAssemblyReference.cache
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\obj\Debug\MvcIng.dll
+C:\Users\Nevena\Documents\Visual Studio 2013\Projects\ING\Solution\MvcIng\obj\Debug\MvcIng.pdb
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\MvcIng.dll.config
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\MvcIng.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\MvcIng.pdb
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Buisiness.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\MvcIng.Logic.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Owin.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\WebGrease.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\DataBase.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Buisiness.pdb
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\MvcIng.Logic.pdb
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.Optimization.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\bin\DataBase.pdb
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\obj\Debug\MvcIng.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\obj\Debug\MvcIng.dll
+C:\Users\Alex\Desktop\ING\Solution\MvcIng\obj\Debug\MvcIng.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\MvcIng.dll.config
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\MvcIng.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\MvcIng.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Antlr3.Runtime.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Buisiness.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\EntityFramework.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\EntityFramework.SqlServer.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\MvcIng.Logic.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Newtonsoft.Json.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Owin.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.Helpers.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.Mvc.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.Optimization.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.Razor.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.WebPages.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.WebPages.Razor.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\WebGrease.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\DataBase.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Buisiness.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\MvcIng.Logic.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.Helpers.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.Mvc.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.Optimization.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.Razor.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.WebPages.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\System.Web.WebPages.Razor.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Antlr3.Runtime.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Newtonsoft.Json.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\EntityFramework.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\EntityFramework.SqlServer.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\bin\DataBase.pdb
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\obj\Debug\MvcIng.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\obj\Debug\MvcIng.dll
+C:\Users\Milos\Desktop\Softversko-sve\ING\Solution\MvcIng\obj\Debug\MvcIng.pdb

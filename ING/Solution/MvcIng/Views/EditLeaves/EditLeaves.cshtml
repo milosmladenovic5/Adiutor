@@ -1,0 +1,41 @@
+﻿@model MvcIng.Models.EditLeavesModel
+
+@{
+    ViewBag.Title = "EditLeaves";
+}
+
+<h2 style="color:darkred">Edit Leaves</h2>
+<table border="1" style="width:100%">
+    <tr>
+        <th>Employee</th>
+        <th>From</th>
+        <th>To</th>
+        <th>Status</th>
+        <th>Comment</th>
+    </tr>
+    @{
+        int m = Model.leaves.Count;
+        for (int i = 0; i < m; i++)
+        {
+            <tr>
+                <th>@Model.leaves[i].EmployeeFirstName   @Model.leaves[i].EmployeeLastName</th>
+                <th>@Model.leaves[i].start</th>
+                <th>@Model.leaves[i].end</th>
+                @{ var l = (Buisiness.LeaveStatusTypes.LeaveStatusT)Model.leaves[i].status; }
+                <th>@l</th>
+                <th>@Model.leaves[i].comment</th>
+                @if (Model.leaves[i].status == (int)Buisiness.LeaveStatusTypes.LeaveStatusT.Pending || 
+                    Model.leaves[i].status == (int)Buisiness.LeaveStatusTypes.LeaveStatusT.Rejected)
+                { 
+                    <th>@Html.ActionLink("Approve", "Approve", new { leaveID = @Model.leaves[i].leaveID }) </th>
+                }
+                @if (Model.leaves[i].status == (int)Buisiness.LeaveStatusTypes.LeaveStatusT.Pending ||
+                    Model.leaves[i].status == (int)Buisiness.LeaveStatusTypes.LeaveStatusT.Approved)
+                { 
+                    <th>@Html.ActionLink("Reject", "Reject", new { leaveID = @Model.leaves[i].leaveID })  </th>
+                }
+            </tr>
+        }
+    }
+</table>
+<input type="button" value="Add leave" onclick="location.href='@Url.Action("AddLeave","AddLeave")'" />
